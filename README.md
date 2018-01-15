@@ -1,2 +1,2 @@
 # SO
-Systemy Operacyjne
+Testownik do Systemów Operacyjnych do wykładu prof. Woźniaka
